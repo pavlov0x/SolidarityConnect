@@ -46,8 +46,11 @@ Ethereum (ETH) and similar blockchains: [Insert Ethereum wallet address]
 Join Us on Social Media:
 
 Twitter (English) - @SolidarityCt
+
 Telegram Channel (English) - https://t.me/SolidarityConnect
+
 Telegram Channel (Spanish) - https://t.me/EsSolidarityConnect
+
 Telegram Channel (Russian) - https://t.me/RuSolidarityConnect
 
 SolidarityConnect@proton.me
