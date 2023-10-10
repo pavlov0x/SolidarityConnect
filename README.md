@@ -40,8 +40,8 @@ Funding: If you represent an organization or a fund, you can consider providing 
 Cryptocurrency Donations:
 You can also support us through cryptocurrency donations, helping us advance our mission to protect human and labor rights.
 
-Bitcoin (BTC): [Insert Bitcoin wallet address]
-Ethereum (ETH) and similar blockchains: [Insert Ethereum wallet address]
+Bitcoin (BTC): [bc1qxen29fmcrlgecs73n2lsgdsxxy07tthng68ykk]
+Ethereum (ETH) and similar blockchains: [0x047eD4C1c3c3de63B085d529250d31c55DC1579D]
 
 Join Us on Social Media:
 
