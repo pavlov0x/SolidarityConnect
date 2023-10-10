@@ -46,7 +46,7 @@ Ethereum (ETH) and similar blockchains: [0x047eD4C1c3c3de63B085d529250d31c55DC15
 
 Join Us on Social Media:
 
-Twitter (English) - @SolidarityCt
+Twitter(X) - @SolidarityCt
 
 Telegram Channel (English) - https://t.me/SolidarityConnect
 
