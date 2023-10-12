@@ -1,5 +1,5 @@
 # SolidarityConnect 🤚
-Making a non-profit app to protect human rights on and using artificial intelligence. DAO #SolidarityConnect
+Making a non-profit app to protect human rights on and using artificial intelligence. #SolidarityConnect
 
 Project Description - Solidarity Connect:
 
@@ -13,7 +13,7 @@ Values:
 
 Solidarity: We believe in the power of solidarity and unity in the pursuit of justice and human rights. Regardless of nationality, position, or status, we come together to support one another.
 
-Decentralization: We are developing the application as a decentralized autonomous organization (DAO), where participants can contribute and influence the project's development.
+Decentralization: We are developing the application as a decentralized autonomous organization , where participants can contribute and influence the project's development.
 
 Open Source: We uphold the principle of open-source code, making our platform accessible to all and allowing developers to contribute and improve the project.
 
